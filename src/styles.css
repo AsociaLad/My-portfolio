@@ -1,0 +1,11 @@
+/* Global styles - Tailwind is loaded via CDN in index.html */
+
+/* Additional custom styles if needed */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+}
